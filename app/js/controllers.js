@@ -11,4 +11,7 @@ function PhoneListCtrl($scope) {
     {"name": "MOTOROLA XOOM™",
      "snippet": "The Next, Next Generation tablet."}
   ];
+  
+  $scope.testvar = ' testy var here yep.. ';
+  
 }
